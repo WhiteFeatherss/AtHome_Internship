@@ -227,7 +227,6 @@ void AMC_Behaviour::BeginPlay()
 	Experience_NextLeveL_Update();
 	PlayerVariables::experienceNeeded = PlayerVariables::levelUpExperience - PlayerVariables::currentExperience;
 	PlayerVariables::availableStats = 0;
-	PlayerVariables::currentPlayerHealth = 500.0F;
 
 	//Black and white screen : 
 	PlayerVariables::PostProData.bOverride_ColorSaturation = true;
@@ -1008,8 +1007,8 @@ void AMC_Behaviour::RemoveRandomStat(float NumberToRemove)
 
 void AMC_Behaviour::Test() //T key, performs test actions.//
 {
-	PlayerVariables::currentPlayerHealth -= 100.0F;
-	OutputDebug::DebugFStringFloat(PlayerVariables::currentPlayerHealth, "Current helth : ");
+	//PlayerVariables::currentPlayerHealth -= 100.0F;
+	//OutputDebug::DebugFStringFloat(PlayerVariables::currentPlayerHealth, "Current helth : ");
 }
 
 
