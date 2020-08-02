@@ -10,7 +10,7 @@
 
 namespace DemonConstants
 {
-	constexpr float Demon_FOV = 57.0F; //Average human binocular visual field
+	constexpr float Demon_FOV = 65.0F; //Average human binocular visual field
 	constexpr float Demon_SightRadius = 5000.0F; // 2500 = 25m
 	constexpr float Demon_VisionReset = 1.2F;
 
@@ -27,7 +27,7 @@ namespace DemonConstants
 	constexpr float triggerAccel_Reset = 400.0F;
 
 	//Experience : 
-	constexpr float experienceGive = 125.0F;
+	constexpr float experienceGive = 150.0F;
 
 	//Damage : 
 	constexpr float demonDamage = 45.0F;
@@ -56,9 +56,6 @@ namespace DemonVariables
 	bool doOnce_Roar = false;
 
 	bool doOnce_AttackFromBack = false;
-
-	//Health and Damage : 
-	//float demonHealth = 50.0F; 
 
 
 	//Timer
@@ -105,7 +102,12 @@ void ADemon_Behaviour::Tick(float DeltaTime)
 		FlipFlop_slowDownTrigger_True_DoOnce();
 	}
 
-	RetriggerableDelay(&ADemon_Behaviour::Reset_PlayerSeen, DeltaTime, DemonConstants::Demon_VisionReset);
+	if (playerIsBeingSeen)
+	{
+		SeenTarget();
+	}
+
+	//RetriggerableDelay(&ADemon_Behaviour::Reset_PlayerSeen, DeltaTime, DemonConstants::Demon_VisionReset);
 }
 void ADemon_Behaviour::UnseenReturnRandom(float deltaSecond)
 {
@@ -154,7 +156,7 @@ void ADemon_Behaviour::SeenTarget()
 
 	DemonVariables::unseenAccumulatedSeconds = 0;
 
-	FlipFlop_DoOnce_SeenTarget();
+	//FlipFlop_DoOnce_SeenTarget();
 
 	AMC_Behaviour* PlayerCharacter = CastToPlayerCharacter();
 
@@ -205,7 +207,7 @@ void ADemon_Behaviour::Reset_PlayerSeen()
 //Damage and Experience :
 float ADemon_Behaviour::TakeDamage(float Damage, FDamageEvent const& DamageEvent, AController* EventInstigator, AActor* DamageCauser)
 {
-	OutputDebug::DebugFStringFloat(Damage, "Damage caused to enemy: ");
+	DemonVariables::doOnce_SeenTarget = true;
 
 	TArray<UBoxComponent*> causerComponents;
 
