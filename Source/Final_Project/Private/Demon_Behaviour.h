@@ -84,16 +84,12 @@ public: //UPROPERTIES :
 
 public: //UFUNCTIONS : 
 	UFUNCTION(BlueprintCallable)
-
 		void OnSeePawn(APawn* OtherPawn);
-
 	UFUNCTION(BlueprintCallable)
 		void slowDownTrigger_True_Speed_Lerp(float lerpValue);
-
 	UFUNCTION(BlueprintCallable)
 		void slowDownTrigger_False_Speed();
-public:
-	UFUNCTION(BlueprintCallable, Category = "PleaseStopBugging2x")
+	UFUNCTION(BlueprintCallable)
 		void DoDamageToPlayer();
 
 public : //Blueprint Events :

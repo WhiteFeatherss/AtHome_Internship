@@ -79,7 +79,7 @@ namespace PlayerStatsConstants
 
 
 	//Experience : 
-	constexpr float experienceExponent = 1.2F;
+	constexpr float experienceExponent = 1.4F;
 	constexpr float baseExperience = 90.0F;
 	constexpr float maximum_Stat = 50.0F;
 
