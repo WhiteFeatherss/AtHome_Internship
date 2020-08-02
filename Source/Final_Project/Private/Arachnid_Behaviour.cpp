@@ -14,20 +14,20 @@
 namespace ArachnidConstants
 {
 	constexpr float experienceGive = 1000.0F;
-	constexpr float arachnidDamage = 100.0F;
+	constexpr float arachnidDamage = 75.0F;
 
 	constexpr float arachnid_FOV = 30.0F;
 	constexpr float arachnid_SightRadius = 3000.0F;
 
 	constexpr float acceptanceRadius = 500.0F;
 
-	constexpr float maximumHealth = 1500.0f;
+	constexpr float maximumHealth = 1250.0f;
 
 	AMC_Behaviour* MC = nullptr;
 }
 namespace ArachnidVariables
 {
-	float arachnidHealth = 1500.0F;
+	float arachnidHealth = 1250.0F;
 	
 	float playerIsBeingSeen = false;
 

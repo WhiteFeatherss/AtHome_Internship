@@ -42,9 +42,9 @@ public: //Variables
 		bool isDead = false;
 
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = Health)
-		float MaxHealth = 100.0F;
+		float MaxHealth = 650.0F;
 	UPROPERTY(VisibleAnywhere, BlueprintReadWrite, Category = Death)
-		float CurrentHealth = 100.0F;
+		float CurrentHealth = 650.0F;
 
 protected: //Generated upon creation :
 	virtual void BeginPlay() override;

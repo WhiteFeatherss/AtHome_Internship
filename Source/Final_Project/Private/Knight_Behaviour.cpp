@@ -28,7 +28,6 @@ namespace KnightConstants
 }
 namespace KnightVariables
 {
-	float knightHealth = 450.0F;
 	float playerIsBeingSeen = false;
 	
 	bool bPowerUp = false;
@@ -42,12 +41,6 @@ namespace KnightVariables
 AKnight_Behaviour::AKnight_Behaviour()
 {
 	PrimaryActorTick.bCanEverTick = true;
-
-	KnightVariables::knightHealth = 100.0F;
-	MaxHealth = KnightVariables::knightHealth;
-	CurrentHealth = KnightVariables::knightHealth;
-
-
 
 	//Add pawn sensing to Demon : 
 	PawnSensor = CreateDefaultSubobject<UPawnSensingComponent>(TEXT("Pawn Sensing"));
@@ -102,9 +95,8 @@ float AKnight_Behaviour::TakeDamage(float Damage, FDamageEvent const& DamageEven
 	{
 		if (causerComponent->GetName() == "SwordCollider")
 		{
-			KnightVariables::knightHealth > 0 ? KnightVariables::knightHealth -= Damage : NULL;
-			KnightVariables::knightHealth <= 0 ? GiveXP(experienceGain) : NULL;
-			CurrentHealth = KnightVariables::knightHealth;
+			CurrentHealth > 0 ? CurrentHealth -= Damage : NULL;
+			CurrentHealth <= 0 ? GiveXP(experienceGain) : NULL;
 			return Damage;
 		}
 	}
