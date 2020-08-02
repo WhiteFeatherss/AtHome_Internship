@@ -49,7 +49,7 @@ namespace DemonVariables
 
 	//Do once : 
 	bool doOnce_RandomMove = false;
-	bool doOnce_SeenTarget = false;
+	bool doOnce_SeenTarget = true;
 	bool doOnce_TriggerSpeed_True = false;
 	bool doOnce_TriggerSpeed_False = false;
 
