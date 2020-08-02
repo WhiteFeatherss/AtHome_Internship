@@ -27,10 +27,10 @@ namespace DemonConstants
 	constexpr float triggerAccel_Reset = 400.0F;
 
 	//Experience : 
-	constexpr float experienceGive = 125.0F;
+	constexpr float experienceGive = 150.0F;
 
 	//Damage : 
-	constexpr float demonDamage = 45.0F;
+	constexpr float demonDamage = 50.0F;
 }
 namespace DemonVariables
 {
@@ -104,8 +104,12 @@ void ADemon_Behaviour::Tick(float DeltaTime)
 		FlipFlop_slowDownTrigger_False_DoOnce();
 		FlipFlop_slowDownTrigger_True_DoOnce();
 	}
+	if (playerIsBeingSeen == true)
+	{
+		SeenTarget();
+	}
 
-	RetriggerableDelay(&ADemon_Behaviour::Reset_PlayerSeen, DeltaTime, DemonConstants::Demon_VisionReset);
+	//RetriggerableDelay(&ADemon_Behaviour::Reset_PlayerSeen, DeltaTime, DemonConstants::Demon_VisionReset);
 }
 void ADemon_Behaviour::UnseenReturnRandom(float deltaSecond)
 {
@@ -137,7 +141,7 @@ void ADemon_Behaviour::OnSeePawn(APawn* OtherPawn)
 	EnemyReturnRandomLocation = false;
 
 
-	DemonVariables::doOnce_SeenTarget ? SeenTarget() : NOFUNCTION;
+	SeenTarget();
 }
 void ADemon_Behaviour::SeenTarget()
 {
@@ -154,7 +158,7 @@ void ADemon_Behaviour::SeenTarget()
 
 	DemonVariables::unseenAccumulatedSeconds = 0;
 
-	FlipFlop_DoOnce_SeenTarget();
+
 
 	AMC_Behaviour* PlayerCharacter = CastToPlayerCharacter();
 
@@ -205,7 +209,7 @@ void ADemon_Behaviour::Reset_PlayerSeen()
 //Damage and Experience :
 float ADemon_Behaviour::TakeDamage(float Damage, FDamageEvent const& DamageEvent, AController* EventInstigator, AActor* DamageCauser)
 {
-	OutputDebug::DebugFStringFloat(Damage, "Damage caused to enemy: ");
+	playerIsBeingSeen = true;
 
 	TArray<UBoxComponent*> causerComponents;
 
@@ -226,7 +230,7 @@ float ADemon_Behaviour::TakeDamage(float Damage, FDamageEvent const& DamageEvent
 
 	return Damage;
 }
-void ADemon_Behaviour::DoDamageToPlayer()
+void ADemon_Behaviour::DoDamageToPlayeer()
 {
 	AMC_Behaviour* PlayerCharacter = CastToPlayerCharacter();
 
