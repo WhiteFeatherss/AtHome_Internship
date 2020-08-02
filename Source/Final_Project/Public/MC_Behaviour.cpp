@@ -124,7 +124,7 @@ namespace PlayerConstants //Global constants reserved for MC_Behaviour.cpp//
 	constexpr float timeNormal = 1.0F;
 
 	//Health Regen : 
-	constexpr float healthGainRegen = 0.25F;
+	constexpr float healthGainRegen = 0.12F;
 	constexpr float poisonDamage = 0.5F;
 	constexpr float poisonTime = 4.0F;
 

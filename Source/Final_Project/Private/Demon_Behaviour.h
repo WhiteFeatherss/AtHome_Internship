@@ -11,7 +11,7 @@
 #include "GameFramework/Character.h"
 #include "Demon_Behaviour.generated.h"
 
-UCLASS(Blueprintable)
+UCLASS()
 class ADemon_Behaviour : public ACharacter
 {
 	GENERATED_BODY()

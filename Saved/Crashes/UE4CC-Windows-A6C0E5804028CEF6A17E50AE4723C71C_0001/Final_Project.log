@@ -1,0 +1,1375 @@
+﻿Log file open, 08/02/20 00:15:10
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Final_Project
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.059449
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AssetsCleaner
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Engine.ini]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Engine.ini]
+[2020.08.02-04.15.10:433][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Engine.ini]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Engine.ini]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.08.02-04.15.10:433][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Engine.ini]
+[2020.08.02-04.15.10:433][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Engine.ini]
+[2020.08.02-04.15.10:436][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Scalability.ini]
+[2020.08.02-04.15.10:436][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.02-04.15.10:436][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.02-04.15.10:436][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Scalability.ini]
+[2020.08.02-04.15.10:436][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.02-04.15.10:436][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Scalability.ini]
+[2020.08.02-04.15.10:436][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.02-04.15.10:436][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.02-04.15.10:436][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.02-04.15.10:436][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.02-04.15.10:436][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.02-04.15.10:436][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.02-04.15.10:436][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.02-04.15.10:436][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.02-04.15.10:436][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.02-04.15.10:436][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.02-04.15.10:436][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.02-04.15.10:436][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Scalability.ini]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Scalability.ini]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Scalability.ini]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Scalability.ini]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Scalability.ini]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.02-04.15.10:437][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.02-04.15.10:438][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.02-04.15.10:438][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.08.02-04.15.10:440][  0]LogHAL: Display: Platform has ~ 16 GB [17019023360 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.08.02-04.15.10:440][  0]LogInit: Going up to parent DeviceProfile []
+[2020.08.02-04.15.10:440][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Scalability.ini]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Scalability.ini]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Scalability.ini]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Scalability.ini]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.08.02-04.15.10:440][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Scalability.ini]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Scalability.ini]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Scalability.ini]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Scalability.ini]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.08.02-04.15.10:441][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Config/Windows/Engine.ini]
+[2020.08.02-04.15.10:441][  0]LogInit: Computer: SOURAPPLE
+[2020.08.02-04.15.10:441][  0]LogInit: User: SourApple
+[2020.08.02-04.15.10:442][  0]LogInit: CPU Page size=4096, Cores=6
+[2020.08.02-04.15.10:442][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.08.02-04.15.10:442][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.08.02-04.15.10:442][  0]LogMemory: Platform Memory Stats for Windows
+[2020.08.02-04.15.10:442][  0]LogMemory: Process Physical Memory: 109.63 MB used, 109.63 MB peak
+[2020.08.02-04.15.10:442][  0]LogMemory: Process Virtual Memory: 100.66 MB used, 100.66 MB peak
+[2020.08.02-04.15.10:442][  0]LogMemory: Physical Memory: 6942.50 MB used,  9288.11 MB free, 16230.61 MB total
+[2020.08.02-04.15.10:442][  0]LogMemory: Virtual Memory: 5162.45 MB used,  134212568.00 MB free, 134217728.00 MB total
+[2020.08.02-04.15.10:673][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.08.02-04.15.10:690][  0]LogInit: Using OS detected language (en-US).
+[2020.08.02-04.15.10:690][  0]LogInit: Using OS detected locale (en-CA).
+[2020.08.02-04.15.10:691][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.08.02-04.15.10:834][  0]LogInit: Setting process to per monitor DPI aware
+[2020.08.02-04.15.10:869][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.08.02-04.15.10:869][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.08.02-04.15.11:028][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.02-04.15.11:028][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.08.02-04.15.11:028][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.08.02-04.15.11:028][  0]LogD3D11RHI: D3D11 adapters:
+[2020.08.02-04.15.11:090][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2020.08.02-04.15.11:090][  0]LogD3D11RHI:       8081/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.08.02-04.15.11:111][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.08.02-04.15.11:111][  0]LogD3D11RHI:       128/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.08.02-04.15.11:113][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.08.02-04.15.11:113][  0]LogD3D11RHI:       0/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.08.02-04.15.11:113][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.08.02-04.15.11:152][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.08.02-04.15.11:152][  0]LogD3D11RHI:     GPU DeviceId: 0x1ba1 (for the marketing name, search the web for "GPU Device Id")
+[2020.08.02-04.15.11:152][  0]LogWindows: EnumDisplayDevices:
+[2020.08.02-04.15.11:152][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.08.02-04.15.11:152][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.08.02-04.15.11:152][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.08.02-04.15.11:153][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2020.08.02-04.15.11:153][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.08.02-04.15.11:153][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.08.02-04.15.11:153][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2020.08.02-04.15.11:154][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.08.02-04.15.11:154][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2020.08.02-04.15.11:154][  0]LogD3D11RHI:   Driver Version: 446.14 (internal:26.21.14.4614, unified:446.14)
+[2020.08.02-04.15.11:154][  0]LogD3D11RHI:      Driver Date: 5-15-2020
+[2020.08.02-04.15.11:154][  0]LogRHI: Texture pool is 5656 MB (70% of 8081 MB)
+[2020.08.02-04.15.11:202][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.08.02-04.15.11:202][  0]LogD3D11RHI: Async texture creation enabled
+[2020.08.02-04.15.11:220][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.08.02-04.15.11:481][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.08.02-04.15.11:510][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.08.02-04.15.11:527][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.08.02-04.15.11:527][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.08.02-04.15.11:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.08.02-04.15.11:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.08.02-04.15.11:549][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.08.02-04.15.11:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.08.02-04.15.11:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.08.02-04.15.11:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.08.02-04.15.11:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.08.02-04.15.11:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.08.02-04.15.11:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.08.02-04.15.11:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.08.02-04.15.11:612][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.08.02-04.15.11:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.08.02-04.15.11:625][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.08.02-04.15.11:632][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.08.02-04.15.11:632][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.08.02-04.15.11:634][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.08.02-04.15.11:655][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Intermediate/Shaders/WorkingDirectory/2452/).
+[2020.08.02-04.15.11:655][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/SourApple/AppData/Local/Temp/UnrealShaderWorkingDir/96A9BAF94282E58DD3F7DAB7F2C0D620/'.
+[2020.08.02-04.15.11:656][  0]LogXGEController: Cleaning working directory: C:/Users/SourApple/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.08.02-04.15.11:656][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.08.02-04.15.11:656][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.08.02-04.15.11:656][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.08.02-04.15.12:333][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.08.02-04.15.12:418][  0]LogDerivedDataCache: Loaded boot cache 0.09s 138MB C:/Users/SourApple/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.08.02-04.15.12:418][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/SourApple/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.08.02-04.15.12:418][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.08.02-04.15.12:418][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.08.02-04.15.12:419][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.02-04.15.12:419][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.08.02-04.15.12:428][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.08.02-04.15.12:428][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.08.02-04.15.12:428][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.08.02-04.15.12:429][  0]LogDerivedDataCache: Using Local data cache path C:/Users/SourApple/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.08.02-04.15.12:429][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.08.02-04.15.12:429][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.08.02-04.15.12:451][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.08.02-04.15.12:453][  0]LogSlate: Using FreeType 2.10.0
+[2020.08.02-04.15.12:453][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.08.02-04.15.12:496][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2020.08.02-04.15.12:779][  0]LogInit: Selected Device Profile: [Windows]
+[2020.08.02-04.15.12:926][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.08.02-04.15.12:926][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.08.02-04.15.12:927][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.08.02-04.15.12:927][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.08.02-04.15.12:927][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.08.02-04.15.12:939][  0]LogNetVersion: Final_Project 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1581502939)
+[2020.08.02-04.15.13:908][  0]LogPackageLocalizationCache: Processed 13 localized package path(s) for 1 prioritized culture(s) in 0.059419 seconds
+[2020.08.02-04.15.13:914][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.08.02-04.15.13:915][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.08.02-04.15.13:915][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.08.02-04.15.14:233][  0]LogPython: Using Python 2.7.14
+[2020.08.02-04.15.14:889][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.08.02-04.15.14:893][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.08.02-04.15.16:681][  0]SourceControl: Source control is disabled
+[2020.08.02-04.15.16:681][  0]SourceControl: Source control is disabled
+[2020.08.02-04.15.16:682][  0]SourceControl: Source control is disabled
+[2020.08.02-04.15.16:683][  0]SourceControl: Source control is disabled
+[2020.08.02-04.15.16:684][  0]SourceControl: Source control is disabled
+[2020.08.02-04.15.17:369][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.08.02-04.15.17:400][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.02-04.15.17:400][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.08.02-04.15.17:508][  0]LogOcInput: OculusInput pre-init called
+[2020.08.02-04.15.17:522][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.08.02-04.15.17:522][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.08.02-04.15.18:692][  0]LogEngine: Initializing Engine...
+[2020.08.02-04.15.18:693][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.08.02-04.15.18:694][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.08.02-04.15.19:087][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.08.02-04.15.19:103][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.08.02-04.15.19:116][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.08.02-04.15.19:116][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.08.02-04.15.19:116][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.08.02-04.15.19:116][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.08.02-04.15.19:116][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.08.02-04.15.19:116][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.08.02-04.15.19:116][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.08.02-04.15.19:116][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.08.02-04.15.19:117][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.08.02-04.15.19:117][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.08.02-04.15.19:221][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.02-04.15.19:221][  0]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.08.02-04.15.19:221][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.08.02-04.15.19:221][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.02-04.15.19:221][  0]LogAudioMixer: Display: Channel Count Used: 8
+[2020.08.02-04.15.19:221][  0]LogAudioMixer: Display: Device Channel Count: 8
+[2020.08.02-04.15.19:221][  0]LogAudioMixer: Display: Channel Order:
+[2020.08.02-04.15.19:221][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.02-04.15.19:221][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.08.02-04.15.19:221][  0]LogAudioMixer: Display: 2: FrontCenter
+[2020.08.02-04.15.19:221][  0]LogAudioMixer: Display: 3: LowFrequency
+[2020.08.02-04.15.19:221][  0]LogAudioMixer: Display: 4: BackLeft
+[2020.08.02-04.15.19:221][  0]LogAudioMixer: Display: 5: BackRight
+[2020.08.02-04.15.19:221][  0]LogAudioMixer: Display: 6: SideLeft
+[2020.08.02-04.15.19:221][  0]LogAudioMixer: Display: 7: SideRight
+[2020.08.02-04.15.19:445][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2020.08.02-04.15.19:457][  0]LogInit: FAudioDevice initialized.
+[2020.08.02-04.15.19:457][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.08.02-04.15.19:581][  0]LogDerivedDataCache: Saved boot cache 0.12s 138MB C:/Users/SourApple/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.08.02-04.15.19:593][  0]LogInit: Texture streaming: Enabled
+[2020.08.02-04.15.19:610][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.08.02-04.15.19:610][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.08.02-04.15.19:613][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.08.02-04.15.19:684][  0]LogInit: Transaction tracking system initialized
+[2020.08.02-04.15.19:693][  0]BlueprintLog: New page: Editor Load
+[2020.08.02-04.15.19:728][  0]LocalizationService: Localization service is disabled
+[2020.08.02-04.15.19:776][  0]LogLinker: Warning: Failed to load '/Game/Vault/RiverShader/Blueprints/Tutorial/Tutorial_InitialSetup': Can't find file.
+[2020.08.02-04.15.19:776][  0]LogLinker: Warning: Failed to load '/Game/Vault/RiverShader/Blueprints/Tutorial/Tutorial_InitialSetup': Can't find file.
+[2020.08.02-04.15.19:776][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Vault/RiverShader/Blueprints/Tutorial/Tutorial_InitialSetup.Tutorial_InitialSetup_C'
+[2020.08.02-04.15.19:776][  0]LogLinker: Warning: Failed to load '/Game/Vault/RiverShader/Blueprints/Tutorial/Tutorial_PlacingRiverSetup': Can't find file.
+[2020.08.02-04.15.19:776][  0]LogLinker: Warning: Failed to load '/Game/Vault/RiverShader/Blueprints/Tutorial/Tutorial_PlacingRiverSetup': Can't find file.
+[2020.08.02-04.15.19:776][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Vault/RiverShader/Blueprints/Tutorial/Tutorial_PlacingRiverSetup.Tutorial_PlacingRiverSetup_C'
+[2020.08.02-04.15.20:096][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Content/' took 0.02s
+[2020.08.02-04.15.20:096][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.08.02-04.15.20:096][  0]LogCook: Display: Mobile HDR setting 1
+[2020.08.02-04.15.20:711][  0]SourceControl: Source control is disabled
+[2020.08.02-04.15.20:712][  0]Cmd: MAP LOAD FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/MainMenu/Lv_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.08.02-04.15.20:712][  0]LightingResults: New page: Lighting Build
+[2020.08.02-04.15.20:713][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-04.15.20:713][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-04.15.20:713][  0]MapCheck: New page: Map Check
+[2020.08.02-04.15.20:713][  0]LightingResults: New page: Lighting Build
+[2020.08.02-04.15.20:752][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.08.02-04.15.20:799][  0]LogAIModule: Creating AISystem for world Lv_MainMenu
+[2020.08.02-04.15.20:800][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.08.02-04.15.20:832][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.08.02-04.15.20:832][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.08.02-04.15.20:832][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2020.08.02-04.15.20:832][  0]LogFileHelpers: Loading map 'Lv_MainMenu' took 0.120
+[2020.08.02-04.15.21:231][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.02-04.15.21:238][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.02-04.15.21:245][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.02-04.15.21:251][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.08.02-04.15.21:255][  0]LogCollectionManager: Loaded 0 collections in 0.001624 seconds
+[2020.08.02-04.15.21:268][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Collections/' took 0.00s
+[2020.08.02-04.15.21:268][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Developers/SourApple/Collections/' took 0.00s
+[2020.08.02-04.15.21:268][  0]LogFileCache: Scanning file cache for directory 'C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Collections/' took 0.00s
+[2020.08.02-04.15.21:269][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 3047 classes and 733 folders.
+[2020.08.02-04.15.21:271][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.08.02-04.15.21:312][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.08.02-04.15.21:316][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2020.08.02-04.15.21:406][  0]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.08.02-04.15.21:408][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.08.02-04.15.21:413][  0]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.08.02-04.15.21:495][  0]LogRenderer: Reallocating scene render targets to support 828x424 Format 10 NumSamples 1 (Frame:1).
+[2020.08.02-04.15.21:609][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.08.02-04.15.21:609][  0]LogLoad: (Engine Initialization) Total time: 12.09 seconds
+[2020.08.02-04.15.21:609][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.08.02-04.15.21:794][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.08.02-04.15.21:808][  0]LogSlate: Took 0.000157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.02-04.15.21:910][  2]LogAssetRegistry: Asset discovery search completed in 9.4155 seconds
+[2020.08.02-04.15.21:914][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.08.02-04.15.38:769][341]LogTemp: Repeating last play command: Standalone Game
+[2020.08.02-04.15.38:813][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.08.02-04.16.48:814][209]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.02-04.16.48:831][209]LogAssetEditorSubsystem: Opening Asset editor for Class /Script/Final_Project.Demon_Behaviour
+[2020.08.02-04.17.51:747][670]Candidate modules for hot reload:
+[2020.08.02-04.17.51:747][670]  Final_Project
+[2020.08.02-04.17.51:747][670]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Final_Project,3704 Win64 Development -TargetType=Editor -Project="C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Final_Project.uproject" "C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Final_Project.uproject"  -IgnoreJunk]
+[2020.08.02-04.17.51:749][670]Warning: Starting HotReload took  0.0s.
+[2020.08.02-04.18.03:622][374]CompilerResultsLog: New page: Compilation - Aug. 1, 2020, 8:18:03 p.m.
+[2020.08.02-04.18.03:622][374]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\SourApple\Documents\GitHub\AtHome_Internship).
+[2020.08.02-04.18.03:622][374]CompilerResultsLog: Building Final_ProjectEditor...
+[2020.08.02-04.18.03:622][374]CompilerResultsLog: Using Visual Studio 2019 14.26.28805 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.02-04.18.03:622][374]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.08.02-04.18.03:622][374]CompilerResultsLog:   [1/4] Demon_Behaviour.cpp
+[2020.08.02-04.18.03:622][374]CompilerResultsLog:   C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Source\Final_Project\Private\MC_Behaviour.h(237): warning C4263: 'void AMC_Behaviour::TakeDamage(float)': member function does not override any base class virtual member function
+[2020.08.02-04.18.03:622][374]CompilerResultsLog:   C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Source\Final_Project\Private\MC_Behaviour.h(284): warning C4264: 'float APawn::TakeDamage(float,const FDamageEvent &,AController *,AActor *)': no override available for virtual member function from base 'APawn'; function is hidden
+[2020.08.02-04.18.03:622][374]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h(247): note: see declaration of 'APawn::TakeDamage'
+[2020.08.02-04.18.03:622][374]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CheatManager.generated.h(14): note: see declaration of 'APawn'
+[2020.08.02-04.18.03:622][374]CompilerResultsLog:   [2/4] UE4Editor-Final_Project-3704.lib
+[2020.08.02-04.18.03:622][374]CompilerResultsLog:      Creating library C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-3704.lib and object C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-3704.exp
+[2020.08.02-04.18.03:622][374]CompilerResultsLog:   [3/4] UE4Editor-Final_Project-3704.dll
+[2020.08.02-04.18.03:622][374]CompilerResultsLog:      Creating library C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-3704.suppressed.lib and object C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-3704.suppressed.exp
+[2020.08.02-04.18.03:622][374]CompilerResultsLog:   [4/4] Final_ProjectEditor.target
+[2020.08.02-04.18.03:622][374]CompilerResultsLog: Total time in Parallel executor: 10.28 seconds
+[2020.08.02-04.18.03:622][374]CompilerResultsLog: Total execution time: 11.75 seconds
+[2020.08.02-04.18.03:622][374]LogMainFrame: MainFrame: Module compiling took 11.887 seconds
+[2020.08.02-04.18.03:651][374]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.08.02-04.18.03:676][374]LogClass: StatsNames HotReload.
+[2020.08.02-04.18.03:686][374]LogContentBrowser: Native class hierarchy updated for 'Final_Project' in 0.0004 seconds. Added 7 classes and 3 folders.
+[2020.08.02-04.18.03:694][374]Display: HotReload successful (24 functions remapped  0 scriptstructs remapped)
+[2020.08.02-04.18.03:786][374]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2020.08.02-04.18.03:798][374]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 3049 classes and 736 folders.
+[2020.08.02-04.18.03:798][374]Display: HotReload took 12.1s.
+[2020.08.02-04.20.11:447][116]Candidate modules for hot reload:
+[2020.08.02-04.20.11:447][116]  Final_Project
+[2020.08.02-04.20.11:447][116]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Final_Project,8995 Win64 Development -TargetType=Editor -Project="C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Final_Project.uproject" "C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Final_Project.uproject"  -IgnoreJunk]
+[2020.08.02-04.20.11:449][116]Warning: Starting HotReload took  0.0s.
+[2020.08.02-04.20.19:111][567]LogEditorViewport: Clicking Background
+[2020.08.02-04.20.20:130][628]LogTemp: Repeating last play command: Standalone Game
+[2020.08.02-04.20.20:171][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.08.02-04.20.22:828][731]CompilerResultsLog: New page: Compilation - Aug. 1, 2020, 8:20:22 p.m.
+[2020.08.02-04.20.22:828][731]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\SourApple\Documents\GitHub\AtHome_Internship).
+[2020.08.02-04.20.22:828][731]CompilerResultsLog: Building Final_ProjectEditor...
+[2020.08.02-04.20.22:828][731]CompilerResultsLog: Using Visual Studio 2019 14.26.28805 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.02-04.20.22:828][731]CompilerResultsLog: Building 4 actions with 12 processes...
+[2020.08.02-04.20.22:828][731]CompilerResultsLog:   [1/4] Demon_Behaviour.cpp
+[2020.08.02-04.20.22:828][731]CompilerResultsLog:   C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Source\Final_Project\Private\MC_Behaviour.h(237): warning C4263: 'void AMC_Behaviour::TakeDamage(float)': member function does not override any base class virtual member function
+[2020.08.02-04.20.22:828][731]CompilerResultsLog:   C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Source\Final_Project\Private\MC_Behaviour.h(284): warning C4264: 'float APawn::TakeDamage(float,const FDamageEvent &,AController *,AActor *)': no override available for virtual member function from base 'APawn'; function is hidden
+[2020.08.02-04.20.22:828][731]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h(247): note: see declaration of 'APawn::TakeDamage'
+[2020.08.02-04.20.22:828][731]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CheatManager.generated.h(14): note: see declaration of 'APawn'
+[2020.08.02-04.20.22:828][731]CompilerResultsLog:   [2/4] UE4Editor-Final_Project-8995.lib
+[2020.08.02-04.20.22:828][731]CompilerResultsLog:      Creating library C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-8995.lib and object C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-8995.exp
+[2020.08.02-04.20.22:828][731]CompilerResultsLog:   [3/4] UE4Editor-Final_Project-8995.dll
+[2020.08.02-04.20.22:828][731]CompilerResultsLog:      Creating library C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-8995.suppressed.lib and object C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-8995.suppressed.exp
+[2020.08.02-04.20.22:829][731]CompilerResultsLog:   [4/4] Final_ProjectEditor.target
+[2020.08.02-04.20.22:829][731]CompilerResultsLog: Total time in Parallel executor: 10.03 seconds
+[2020.08.02-04.20.22:829][731]CompilerResultsLog: Total execution time: 11.21 seconds
+[2020.08.02-04.20.22:829][731]LogMainFrame: MainFrame: Module compiling took 11.393 seconds
+[2020.08.02-04.20.22:855][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.08.02-04.20.22:882][731]LogClass: StatsNames HotReload.
+[2020.08.02-04.20.22:892][731]LogContentBrowser: Native class hierarchy updated for 'Final_Project' in 0.0004 seconds. Added 7 classes and 3 folders.
+[2020.08.02-04.20.22:901][731]Display: HotReload successful (24 functions remapped  0 scriptstructs remapped)
+[2020.08.02-04.20.22:991][731]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.08.02-04.20.23:004][731]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 3049 classes and 736 folders.
+[2020.08.02-04.20.23:004][731]Display: HotReload took 11.6s.
+[2020.08.02-04.21.12:354][177]LogLinker: Warning: Failed to load '/Game/MeshAndAnimations/Demon': Can't find file.
+[2020.08.02-04.21.12:354][177]LogLinker: Warning: Failed to load '/Game/MeshAndAnimations/Demon': Can't find file.
+[2020.08.02-04.21.12:354][177]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MeshAndAnimations/Demon.Demon'
+[2020.08.02-04.21.12:354][177]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.21.13:738][258]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Enemies/Demon/ABP_Demon.ABP_Demon
+[2020.08.02-04.21.13:762][258]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.08.02-04.21.13:929][258]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.21.13:930][258]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.21.13:931][258]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2020.08.02-04.21.14:123][258]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2020.08.02-04.21.14:846][258]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.08.02-04.21.15:039][258]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.21.15:069][258]LogSlate: Took 0.013379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.02-04.21.15:166][258]LogRenderer: Reallocating scene render targets to support 828x640 Format 10 NumSamples 1 (Frame:1).
+[2020.08.02-04.21.15:168][259]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.21.15:194][259]LogSlate: Took 0.004547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.02-04.21.15:207][260]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.21.15:224][261]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.21.15:241][262]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.21.15:258][263]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.21.15:274][264]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.21.15:291][265]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.21.15:307][266]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.21.15:324][267]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.21.15:341][268]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.21.15:358][269]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.21.15:374][270]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.21.15:392][271]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.21.15:411][272]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_0
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.22.15:470][757]Candidate modules for hot reload:
+[2020.08.02-04.22.15:470][757]  Final_Project
+[2020.08.02-04.22.15:470][757]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Final_Project,2662 Win64 Development -TargetType=Editor -Project="C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Final_Project.uproject" "C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Final_Project.uproject"  -IgnoreJunk]
+[2020.08.02-04.22.15:472][757]Warning: Starting HotReload took  0.0s.
+[2020.08.02-04.22.17:861][886]CompilerResultsLog: New page: Compilation - Aug. 1, 2020, 8:22:17 p.m.
+[2020.08.02-04.22.17:861][886]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\SourApple\Documents\GitHub\AtHome_Internship).
+[2020.08.02-04.22.17:861][886]CompilerResultsLog: Building Final_ProjectEditor...
+[2020.08.02-04.22.17:861][886]CompilerResultsLog: Using Visual Studio 2019 14.26.28805 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.02-04.22.17:861][886]CompilerResultsLog: Building 3 actions with 12 processes...
+[2020.08.02-04.22.17:861][886]CompilerResultsLog:   [1/3] UE4Editor-Final_Project-2662.lib
+[2020.08.02-04.22.17:861][886]CompilerResultsLog:      Creating library C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-2662.lib and object C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-2662.exp
+[2020.08.02-04.22.17:861][886]CompilerResultsLog:   [2/3] UE4Editor-Final_Project-2662.dll
+[2020.08.02-04.22.17:861][886]CompilerResultsLog:      Creating library C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-2662.suppressed.lib and object C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-2662.suppressed.exp
+[2020.08.02-04.22.17:861][886]CompilerResultsLog:   [3/3] Final_ProjectEditor.target
+[2020.08.02-04.22.17:861][886]CompilerResultsLog: Total time in Parallel executor: 1.03 seconds
+[2020.08.02-04.22.17:861][886]CompilerResultsLog: Total execution time: 2.29 seconds
+[2020.08.02-04.22.17:861][886]LogMainFrame: MainFrame: Module compiling took 2.394 seconds
+[2020.08.02-04.22.17:898][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.08.02-04.22.17:935][886]LogClass: StatsNames HotReload.
+[2020.08.02-04.22.17:949][886]LogContentBrowser: Native class hierarchy updated for 'Final_Project' in 0.0004 seconds. Added 7 classes and 3 folders.
+[2020.08.02-04.22.17:959][886]Display: HotReload successful (24 functions remapped  0 scriptstructs remapped)
+[2020.08.02-04.22.18:059][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.08.02-04.22.18:075][886]LogContentBrowser: Native class hierarchy populated in 0.0079 seconds. Added 3050 classes and 738 folders.
+[2020.08.02-04.22.18:076][886]Display: HotReload took  2.6s.
+[2020.08.02-04.22.31:086][584]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/Demon/BP_DemonAI.BP_DemonAI
+[2020.08.02-04.23.02:116][741]BlueprintLog: New page: Compile ABP_Demon
+[2020.08.02-04.23.02:423][741]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.02:424][741]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.02:484][741]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.08.02-04.23.02:579][743]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.02:598][744]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.02:614][745]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.02:630][746]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.02:647][747]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.02:664][748]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.02:680][749]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.02:697][750]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.02:714][751]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.02:731][752]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.02:748][753]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.02:766][754]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.02:785][755]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.02:798][756]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.02:814][757]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_1
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.23.19:594][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Demon/ABP_Demon" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/ABP_Demon.uasset" SILENT=true
+[2020.08.02-04.23.19:662][738]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/ABP_Demon75E9E7B54B0F2C9F3B400AB4735E742C.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/ABP_Demon.uasset'
+[2020.08.02-04.23.19:679][738]AssetCheck: New page: Asset Save: ABP_Demon
+[2020.08.02-04.23.19:679][738]LogContentValidation: Display: Validating AnimBlueprint /Game/Enemies/Demon/ABP_Demon.ABP_Demon
+[2020.08.02-04.28.20:878][346]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2020.08.02-04.28.20:878][346]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2020.08.02-04.28.20:889][346]Candidate modules for hot reload:
+[2020.08.02-04.28.20:889][346]  Final_Project
+[2020.08.02-04.28.20:889][346]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Final_Project,3774 Win64 Development -TargetType=Editor -Project="C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Final_Project.uproject" "C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Final_Project.uproject"  -IgnoreJunk]
+[2020.08.02-04.28.20:892][346]Warning: Starting HotReload took  0.0s.
+[2020.08.02-04.28.23:445][389]CompilerResultsLog: New page: Compilation - Aug. 1, 2020, 8:28:23 p.m.
+[2020.08.02-04.28.23:445][389]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\SourApple\Documents\GitHub\AtHome_Internship).
+[2020.08.02-04.28.23:445][389]CompilerResultsLog: Building Final_ProjectEditor...
+[2020.08.02-04.28.23:445][389]CompilerResultsLog: Using Visual Studio 2019 14.26.28805 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.02-04.28.23:445][389]CompilerResultsLog: Building 3 actions with 12 processes...
+[2020.08.02-04.28.23:445][389]CompilerResultsLog:   [1/3] UE4Editor-Final_Project-3774.lib
+[2020.08.02-04.28.23:445][389]CompilerResultsLog:      Creating library C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-3774.lib and object C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-3774.exp
+[2020.08.02-04.28.23:445][389]CompilerResultsLog:   [2/3] UE4Editor-Final_Project-3774.dll
+[2020.08.02-04.28.23:445][389]CompilerResultsLog:      Creating library C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-3774.suppressed.lib and object C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-3774.suppressed.exp
+[2020.08.02-04.28.23:445][389]CompilerResultsLog:   [3/3] Final_ProjectEditor.target
+[2020.08.02-04.28.23:445][389]CompilerResultsLog: Total time in Parallel executor: 1.28 seconds
+[2020.08.02-04.28.23:445][389]CompilerResultsLog: Total execution time: 2.43 seconds
+[2020.08.02-04.28.23:445][389]LogMainFrame: MainFrame: Module compiling took 2.567 seconds
+[2020.08.02-04.28.23:509][389]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2020.08.02-04.28.23:588][389]LogClass: StatsNames HotReload.
+[2020.08.02-04.28.23:609][389]LogContentBrowser: Native class hierarchy updated for 'Final_Project' in 0.0007 seconds. Added 7 classes and 3 folders.
+[2020.08.02-04.28.23:624][389]Display: HotReload successful (24 functions remapped  0 scriptstructs remapped)
+[2020.08.02-04.28.23:756][389]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.08.02-04.28.23:775][389]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 3050 classes and 738 folders.
+[2020.08.02-04.28.23:775][389]Display: HotReload took  2.9s.
+[2020.08.02-04.28.32:330][767]LogEditorTransaction: Undo Create Pin Link
+[2020.08.02-04.28.32:403][767]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.28.32:559][770]LogEditorTransaction: Undo Move Node
+[2020.08.02-04.28.32:634][770]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.28.32:737][771]LogEditorTransaction: Undo Create Pin Link
+[2020.08.02-04.28.32:811][771]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.28.32:925][772]LogEditorTransaction: Undo Move Node
+[2020.08.02-04.28.32:998][772]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.28.33:107][775]LogEditorTransaction: Undo Create Pin Link
+[2020.08.02-04.28.33:182][775]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.28.33:549][794]LogEditorTransaction: Undo Move Node
+[2020.08.02-04.28.33:628][794]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.28.33:779][800]LogEditorTransaction: Undo Delete current selection
+[2020.08.02-04.28.33:852][800]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.28.34:146][813]LogEditorTransaction: Undo Move Node
+[2020.08.02-04.28.34:219][813]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.28.34:711][839]LogEditorTransaction: Undo Add Node
+[2020.08.02-04.28.34:784][839]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.28.48:303][117]Candidate modules for hot reload:
+[2020.08.02-04.28.48:303][117]  Final_Project
+[2020.08.02-04.28.48:303][117]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Final_Project,915 Win64 Development -TargetType=Editor -Project="C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Final_Project.uproject" "C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Final_Project.uproject"  -IgnoreJunk]
+[2020.08.02-04.28.48:306][117]Warning: Starting HotReload took  0.0s.
+[2020.08.02-04.29.26:345][198]CompilerResultsLog: New page: Compilation - Aug. 1, 2020, 8:29:26 p.m.
+[2020.08.02-04.29.26:345][198]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\SourApple\Documents\GitHub\AtHome_Internship).
+[2020.08.02-04.29.26:345][198]CompilerResultsLog: Parsing headers for Final_ProjectEditor
+[2020.08.02-04.29.26:345][198]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Final_Project.uproject" "C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\Final_ProjectEditor\Development\Final_ProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.08.02-04.29.26:345][198]CompilerResultsLog: Reflection code generated for Final_ProjectEditor in 24.3604194 seconds
+[2020.08.02-04.29.26:345][198]CompilerResultsLog: Building Final_ProjectEditor...
+[2020.08.02-04.29.26:345][198]CompilerResultsLog: Using Visual Studio 2019 14.26.28805 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.02-04.29.26:345][198]CompilerResultsLog: Building 6 actions with 12 processes...
+[2020.08.02-04.29.26:345][198]CompilerResultsLog:   [1/6] Final_Project.init.gen.cpp
+[2020.08.02-04.29.26:345][198]CompilerResultsLog:   [2/6] Demon_Behaviour.gen.cpp
+[2020.08.02-04.29.26:345][198]CompilerResultsLog:   C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Source\Final_Project\Private\MC_Behaviour.h(237): warning C4263: 'void AMC_Behaviour::TakeDamage(float)': member function does not override any base class virtual member function
+[2020.08.02-04.29.26:345][198]CompilerResultsLog:   C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Source\Final_Project\Private\MC_Behaviour.h(284): warning C4264: 'float APawn::TakeDamage(float,const FDamageEvent &,AController *,AActor *)': no override available for virtual member function from base 'APawn'; function is hidden
+[2020.08.02-04.29.26:345][198]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h(247): note: see declaration of 'APawn::TakeDamage'
+[2020.08.02-04.29.26:345][198]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CheatManager.generated.h(14): note: see declaration of 'APawn'
+[2020.08.02-04.29.26:345][198]CompilerResultsLog:   [3/6] Demon_Behaviour.cpp
+[2020.08.02-04.29.26:345][198]CompilerResultsLog:   C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Source\Final_Project\Private\MC_Behaviour.h(237): warning C4263: 'void AMC_Behaviour::TakeDamage(float)': member function does not override any base class virtual member function
+[2020.08.02-04.29.26:345][198]CompilerResultsLog:   C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Source\Final_Project\Private\MC_Behaviour.h(284): warning C4264: 'float APawn::TakeDamage(float,const FDamageEvent &,AController *,AActor *)': no override available for virtual member function from base 'APawn'; function is hidden
+[2020.08.02-04.29.26:345][198]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h(247): note: see declaration of 'APawn::TakeDamage'
+[2020.08.02-04.29.26:345][198]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CheatManager.generated.h(14): note: see declaration of 'APawn'
+[2020.08.02-04.29.26:345][198]CompilerResultsLog:   [4/6] UE4Editor-Final_Project-0915.lib
+[2020.08.02-04.29.26:345][198]CompilerResultsLog:      Creating library C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-0915.lib and object C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-0915.exp
+[2020.08.02-04.29.26:345][198]CompilerResultsLog:   [5/6] UE4Editor-Final_Project-0915.dll
+[2020.08.02-04.29.26:346][198]CompilerResultsLog:      Creating library C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-0915.suppressed.lib and object C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-0915.suppressed.exp
+[2020.08.02-04.29.26:346][198]CompilerResultsLog:   [6/6] Final_ProjectEditor.target
+[2020.08.02-04.29.26:346][198]CompilerResultsLog: Total time in Parallel executor: 12.33 seconds
+[2020.08.02-04.29.26:346][198]CompilerResultsLog: Total execution time: 37.95 seconds
+[2020.08.02-04.29.26:346][198]LogMainFrame: MainFrame: Module compiling took 38.046 seconds
+[2020.08.02-04.29.26:419][198]LogUObjectHash: Compacting FUObjectHashTables data took   5.86ms
+[2020.08.02-04.29.26:442][198]LogContentBrowser: Native class hierarchy populated in 0.0120 seconds. Added 3050 classes and 738 folders.
+[2020.08.02-04.29.26:442][198]Display: HotReload took 38.1s.
+[2020.08.02-04.29.31:463][223]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.08.02-04.29.31:463][223]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/MainMenu/Lv_MainMenu' took 0.103
+[2020.08.02-04.29.31:465][223]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemies/Demon/ABP_Demon] ([1] browsable assets)...
+[2020.08.02-04.29.31:475][223]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Enemies/Demon/ABP_Demon.ABP_Demon]
+[2020.08.02-04.29.31:475][223]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Demon/ABP_Demon]
+[2020.08.02-04.29.31:576][223]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/ABP_Demon_Auto1135C3CCD45707EDD3EE9568225825795.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/Autosaves/Game/Enemies/Demon/ABP_Demon_Auto1.uasset'
+[2020.08.02-04.29.31:578][223]LogFileHelpers: Auto-saving content packages took 0.115
+[2020.08.02-04.30.03:446][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Demon/BP_DemonAI" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset" SILENT=true
+[2020.08.02-04.30.03:514][481]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/BP_DemonAI9DB3E8324A57A0D91F239E8D914812B5.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset'
+[2020.08.02-04.30.03:531][481]AssetCheck: New page: Asset Save: BP_DemonAI
+[2020.08.02-04.30.03:531][481]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Demon/BP_DemonAI.BP_DemonAI
+[2020.08.02-04.30.07:443][586]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2020.08.02-04.30.12:320][789]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2020.08.02-04.30.12:329][789]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Enemies/Demon/BP_DemonAI.BP_DemonAI from Demon_Behaviour to AmbientSound...
+[2020.08.02-04.30.12:359][789]BlueprintLog: New page: Compile BP_DemonAI
+[2020.08.02-04.30.12:376][789]LogBlueprint: Warning: [Compiler ] Pasted node  SpeedTimeline_1   conflicted with  Event Speed Timeline  and was replaced as a Custom Event!
+[2020.08.02-04.30.12:377][789]LogBlueprint: Warning: [Compiler ] Pasted node  SetAnim_Roar_1   conflicted with  Event Set Anim Roar  and was replaced as a Custom Event!
+[2020.08.02-04.30.12:377][789]LogBlueprint: Warning: [Compiler ] Pasted node  OnDeath_1   conflicted with  Event On Death  and was replaced as a Custom Event!
+[2020.08.02-04.30.12:385][789]LogBlueprint: Warning: [Compiler BP_DemonAI] Could not find a variable named "CharacterMovement" in 'BP_DemonAI_C'.
+Make sure 'BP_DemonAI_C' has been compiled for  Get CharacterMovement
+[2020.08.02-04.30.12:385][789]LogBlueprint: Warning: [Compiler BP_DemonAI] Could not find a variable named "Mesh" in 'BP_DemonAI_C'.
+Make sure 'BP_DemonAI_C' has been compiled for  Get Mesh
+[2020.08.02-04.30.12:386][789]LogBlueprint: Warning: [Compiler BP_DemonAI] Could not find a variable named "Mesh" in 'BP_DemonAI_C'.
+Make sure 'BP_DemonAI_C' has been compiled for  Get Mesh
+[2020.08.02-04.30.12:386][789]LogBlueprint: Warning: [Compiler BP_DemonAI] Could not find a variable named "runTowardEnemy" in 'BP_DemonAI_C'.
+Make sure 'BP_DemonAI_C' has been compiled for  Set runTowardEnemy
+[2020.08.02-04.30.12:386][789]LogBlueprint: Warning: [Compiler BP_DemonAI] Could not find a variable named "Mesh" in 'BP_DemonAI_C'.
+Make sure 'BP_DemonAI_C' has been compiled for  Get Mesh
+[2020.08.02-04.30.12:387][789]LogBlueprint: Warning: [Compiler BP_DemonAI] Could not find a variable named "runTowardEnemy" in 'BP_DemonAI_C'.
+Make sure 'BP_DemonAI_C' has been compiled for  Get runTowardEnemy
+[2020.08.02-04.30.12:387][789]LogBlueprint: Warning: [Compiler BP_DemonAI] Could not find a variable named "Mesh" in 'BP_DemonAI_C'.
+Make sure 'BP_DemonAI_C' has been compiled for  Get Mesh
+[2020.08.02-04.30.12:387][789]LogBlueprint: Warning: [Compiler BP_DemonAI] Could not find a variable named "Mesh" in 'BP_DemonAI_C'.
+Make sure 'BP_DemonAI_C' has been compiled for  Get Mesh
+[2020.08.02-04.30.12:389][789]LogBlueprint: Warning: [Compiler BP_DemonAI] Could not find a variable named "Mesh" in 'BP_DemonAI_C'.
+Make sure 'BP_DemonAI_C' has been compiled for  Get Mesh
+[2020.08.02-04.30.12:389][789]LogBlueprint: Warning: [Compiler BP_DemonAI] Could not find a variable named "Mesh" in 'BP_DemonAI_C'.
+Make sure 'BP_DemonAI_C' has been compiled for  Get Mesh
+[2020.08.02-04.30.12:389][789]LogBlueprint: Warning: [Compiler BP_DemonAI] Could not find a variable named "Mesh" in 'BP_DemonAI_C'.
+Make sure 'BP_DemonAI_C' has been compiled for  Get Mesh
+[2020.08.02-04.30.12:389][789]LogBlueprint: Warning: [Compiler BP_DemonAI] Could not find a variable named "Mesh" in 'BP_DemonAI_C'.
+Make sure 'BP_DemonAI_C' has been compiled for  Get Mesh
+[2020.08.02-04.30.12:389][789]LogBlueprint: Warning: [Compiler BP_DemonAI] Could not find a variable named "Mesh" in 'BP_DemonAI_C'.
+Make sure 'BP_DemonAI_C' has been compiled for  Get Mesh
+[2020.08.02-04.30.12:390][789]LogBlueprint: Warning: [Compiler BP_DemonAI] Could not find a variable named "CurrentHealth" in 'BP_DemonAI_C'.
+Make sure 'BP_DemonAI_C' has been compiled for  Get CurrentHealth
+[2020.08.02-04.30.12:390][789]LogBlueprint: Warning: [Compiler BP_DemonAI] Could not find a variable named "MaxHealth" in 'BP_DemonAI_C'.
+Make sure 'BP_DemonAI_C' has been compiled for  Get MaxHealth
+[2020.08.02-04.30.12:392][789]LogBlueprint: Error: [Compiler BP_DemonAI] This blueprint (self) is not a Pawn, therefore ' Target ' must have a connection.
+[2020.08.02-04.30.12:392][789]LogBlueprint: Error: [Compiler BP_DemonAI] This blueprint (self) is not a Demon_Behaviour, therefore ' Target ' must have a connection.
+[2020.08.02-04.30.12:392][789]LogBlueprint: Error: [Compiler BP_DemonAI] The property associated with  Mesh  could not be found in '/Game/Enemies/Demon/BP_DemonAI.BP_DemonAI_C'
+[2020.08.02-04.30.12:392][789]LogBlueprint: Error: [Compiler BP_DemonAI] The property associated with  Mesh  could not be found in '/Game/Enemies/Demon/BP_DemonAI.BP_DemonAI_C'
+[2020.08.02-04.30.12:392][789]LogBlueprint: Error: [Compiler BP_DemonAI] The property associated with  Run Toward Enemy  could not be found in '/Game/Enemies/Demon/BP_DemonAI.BP_DemonAI_C'
+[2020.08.02-04.30.12:393][789]LogBlueprint: Error: [Compiler BP_DemonAI] The property associated with  Mesh  could not be found in '/Game/Enemies/Demon/BP_DemonAI.BP_DemonAI_C'
+[2020.08.02-04.30.12:393][789]LogBlueprint: Error: [Compiler BP_DemonAI] The property associated with  Run Toward Enemy  could not be found in '/Game/Enemies/Demon/BP_DemonAI.BP_DemonAI_C'
+[2020.08.02-04.30.12:393][789]LogBlueprint: Error: [Compiler BP_DemonAI] The property associated with  Mesh  could not be found in '/Game/Enemies/Demon/BP_DemonAI.BP_DemonAI_C'
+[2020.08.02-04.30.12:393][789]LogBlueprint: Error: [Compiler BP_DemonAI] The property associated with  Mesh  could not be found in '/Game/Enemies/Demon/BP_DemonAI.BP_DemonAI_C'
+[2020.08.02-04.30.12:393][789]LogBlueprint: Error: [Compiler BP_DemonAI] The property associated with  Character Movement  could not be found in '/Game/Enemies/Demon/BP_DemonAI.BP_DemonAI_C'
+[2020.08.02-04.30.12:394][789]LogBlueprint: Error: [Compiler BP_DemonAI] The property associated with  Mesh  could not be found in '/Game/Enemies/Demon/BP_DemonAI.BP_DemonAI_C'
+[2020.08.02-04.30.12:394][789]LogBlueprint: Error: [Compiler BP_DemonAI] The property associated with  Mesh  could not be found in '/Game/Enemies/Demon/BP_DemonAI.BP_DemonAI_C'
+[2020.08.02-04.30.12:394][789]LogBlueprint: Error: [Compiler BP_DemonAI] The property associated with  Mesh  could not be found in '/Game/Enemies/Demon/BP_DemonAI.BP_DemonAI_C'
+[2020.08.02-04.30.12:394][789]LogBlueprint: Error: [Compiler BP_DemonAI] The property associated with  Mesh  could not be found in '/Game/Enemies/Demon/BP_DemonAI.BP_DemonAI_C'
+[2020.08.02-04.30.12:394][789]LogBlueprint: Error: [Compiler BP_DemonAI] The property associated with  Mesh  could not be found in '/Game/Enemies/Demon/BP_DemonAI.BP_DemonAI_C'
+[2020.08.02-04.30.12:394][789]LogBlueprint: Error: [Compiler BP_DemonAI] The property associated with  Max Health  could not be found in '/Game/Enemies/Demon/BP_DemonAI.BP_DemonAI_C'
+[2020.08.02-04.30.12:394][789]LogBlueprint: Error: [Compiler BP_DemonAI] The property associated with  Current Health  could not be found in '/Game/Enemies/Demon/BP_DemonAI.BP_DemonAI_C'
+[2020.08.02-04.30.12:401][789]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'CollisionCylinder' for 'HealthWidget' in BlueprintGeneratedClass 'BP_DemonAI_C' (it may have been removed)
+[2020.08.02-04.30.12:401][789]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'CollisionCylinder' for 'FireDeath' in BlueprintGeneratedClass 'BP_DemonAI_C' (it may have been removed)
+[2020.08.02-04.30.12:833][789]LogUObjectHash: Compacting FUObjectHashTables data took   5.91ms
+[2020.08.02-04.30.14:536][881]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.02-04.30.18:851][ 61]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2020.08.02-04.30.18:860][ 61]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Enemies/Demon/BP_DemonAI.BP_DemonAI from AmbientSound to Demon_Behaviour...
+[2020.08.02-04.30.18:884][ 61]BlueprintLog: New page: Compile BP_DemonAI
+[2020.08.02-04.30.18:909][ 61]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'AudioComponent0' for 'HealthWidget' in BlueprintGeneratedClass 'BP_DemonAI_C' (it may have been removed)
+[2020.08.02-04.30.18:909][ 61]LogBlueprint: Warning: USimpleConstructionScript::FixupRootNodeParentReferences() - Couldn't find native parent component 'AudioComponent0' for 'FireDeath' in BlueprintGeneratedClass 'BP_DemonAI_C' (it may have been removed)
+[2020.08.02-04.30.19:276][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.08.02-04.30.21:514][190]BlueprintLog: New page: Compile BP_DemonAI
+[2020.08.02-04.30.21:891][190]LogUObjectHash: Compacting FUObjectHashTables data took   5.37ms
+[2020.08.02-04.31.55:091][664]Candidate modules for hot reload:
+[2020.08.02-04.31.55:091][664]  Final_Project
+[2020.08.02-04.31.55:091][664]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.24/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=Final_Project,9606 Win64 Development -TargetType=Editor -Project="C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Final_Project.uproject" "C:/Users/SourApple/Documents/GitHub/AtHome_Internship/Final_Project.uproject"  -IgnoreJunk]
+[2020.08.02-04.31.55:093][664]Warning: Starting HotReload took  0.0s.
+[2020.08.02-04.32.02:288][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   6.61ms
+[2020.08.02-04.32.02:312][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Demon/BP_DemonAI" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset" SILENT=true
+[2020.08.02-04.32.02:370][ 66]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/BP_DemonAI6FFEA5D64971F9825F2C96BA5F939988.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset'
+[2020.08.02-04.32.02:382][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Demon/ABP_Demon" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/ABP_Demon.uasset" SILENT=true
+[2020.08.02-04.32.02:446][ 66]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/ABP_Demon508DF7A44082759F343C03A16E4A79FB.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/ABP_Demon.uasset'
+[2020.08.02-04.32.02:473][ 66]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.02-04.32.02:473][ 66]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Demon/BP_DemonAI.BP_DemonAI
+[2020.08.02-04.32.02:473][ 66]LogContentValidation: Display: Validating AnimBlueprint /Game/Enemies/Demon/ABP_Demon.ABP_Demon
+[2020.08.02-04.32.14:124][738]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MainCharacter/BP_MyMC_Behaviour.BP_MyMC_Behaviour
+[2020.08.02-04.32.16:910][857]CompilerResultsLog: New page: Compilation - Aug. 1, 2020, 8:32:16 p.m.
+[2020.08.02-04.32.16:911][857]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\SourApple\Documents\GitHub\AtHome_Internship).
+[2020.08.02-04.32.16:911][857]CompilerResultsLog: Parsing headers for Final_ProjectEditor
+[2020.08.02-04.32.16:911][857]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Final_Project.uproject" "C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\Final_ProjectEditor\Development\Final_ProjectEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2020.08.02-04.32.16:911][857]CompilerResultsLog: Reflection code generated for Final_ProjectEditor in 5.9063052 seconds
+[2020.08.02-04.32.16:911][857]CompilerResultsLog: Building Final_ProjectEditor...
+[2020.08.02-04.32.16:911][857]CompilerResultsLog: Using Visual Studio 2019 14.26.28805 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2020.08.02-04.32.16:911][857]CompilerResultsLog: Building 5 actions with 12 processes...
+[2020.08.02-04.32.16:911][857]CompilerResultsLog:   [1/5] Demon_Behaviour.gen.cpp
+[2020.08.02-04.32.16:911][857]CompilerResultsLog:   C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Source\Final_Project\Private\MC_Behaviour.h(237): warning C4263: 'void AMC_Behaviour::TakeDamage(float)': member function does not override any base class virtual member function
+[2020.08.02-04.32.16:911][857]CompilerResultsLog:   C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Source\Final_Project\Private\MC_Behaviour.h(284): warning C4264: 'float APawn::TakeDamage(float,const FDamageEvent &,AController *,AActor *)': no override available for virtual member function from base 'APawn'; function is hidden
+[2020.08.02-04.32.16:911][857]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h(247): note: see declaration of 'APawn::TakeDamage'
+[2020.08.02-04.32.16:911][857]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CheatManager.generated.h(14): note: see declaration of 'APawn'
+[2020.08.02-04.32.16:911][857]CompilerResultsLog:   [2/5] Demon_Behaviour.cpp
+[2020.08.02-04.32.16:911][857]CompilerResultsLog:   C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Source\Final_Project\Private\MC_Behaviour.h(237): warning C4263: 'void AMC_Behaviour::TakeDamage(float)': member function does not override any base class virtual member function
+[2020.08.02-04.32.16:911][857]CompilerResultsLog:   C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Source\Final_Project\Private\MC_Behaviour.h(284): warning C4264: 'float APawn::TakeDamage(float,const FDamageEvent &,AController *,AActor *)': no override available for virtual member function from base 'APawn'; function is hidden
+[2020.08.02-04.32.16:911][857]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h(247): note: see declaration of 'APawn::TakeDamage'
+[2020.08.02-04.32.16:911][857]CompilerResultsLog:   C:\Program Files\Epic Games\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CheatManager.generated.h(14): note: see declaration of 'APawn'
+[2020.08.02-04.32.16:911][857]CompilerResultsLog:   [3/5] UE4Editor-Final_Project-9606.lib
+[2020.08.02-04.32.16:911][857]CompilerResultsLog:      Creating library C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-9606.lib and object C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-9606.exp
+[2020.08.02-04.32.16:911][857]CompilerResultsLog:   [4/5] UE4Editor-Final_Project-9606.dll
+[2020.08.02-04.32.16:911][857]CompilerResultsLog:      Creating library C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-9606.suppressed.lib and object C:\Users\SourApple\Documents\GitHub\AtHome_Internship\Intermediate\Build\Win64\UE4Editor\Development\Final_Project\UE4Editor-Final_Project-9606.suppressed.exp
+[2020.08.02-04.32.16:911][857]CompilerResultsLog:   [5/5] Final_ProjectEditor.target
+[2020.08.02-04.32.16:911][857]CompilerResultsLog: Total time in Parallel executor: 14.65 seconds
+[2020.08.02-04.32.16:911][857]CompilerResultsLog: Total execution time: 21.72 seconds
+[2020.08.02-04.32.16:911][857]LogMainFrame: MainFrame: Module compiling took 21.824 seconds
+[2020.08.02-04.32.16:962][857]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2020.08.02-04.32.16:992][857]LogClass: Could not find existing class Demon_Behaviour in package /Script/Final_Project for HotReload, assuming new class
+[2020.08.02-04.32.16:992][857]LogClass: Function DoDamageToPlayerr is new.
+[2020.08.02-04.32.16:992][857]LogClass: Function OnSuccessFunction is new.
+[2020.08.02-04.32.16:992][857]LogClass: Function OnSeePawn is new.
+[2020.08.02-04.32.16:992][857]LogClass: Function slowDownTrigger_False_Speed is new.
+[2020.08.02-04.32.16:992][857]LogClass: Function slowDownTrigger_True_Speed_Lerp is new.
+[2020.08.02-04.32.17:006][857]LogClass: StatsNames HotReload.
+[2020.08.02-04.32.17:032][857]LogHotReload: Re-instancing Demon_Behaviour after hot-reload.
+[2020.08.02-04.32.17:709][857]LogContentBrowser: Native class hierarchy updated for 'Final_Project' in 0.0004 seconds. Added 7 classes and 3 folders.
+[2020.08.02-04.32.17:727][857]Display: HotReload successful (19 functions remapped  0 scriptstructs remapped)
+[2020.08.02-04.32.17:879][857]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2020.08.02-04.32.17:894][857]LogContentBrowser: Native class hierarchy populated in 0.0076 seconds. Added 3050 classes and 738 folders.
+[2020.08.02-04.32.17:894][857]Display: HotReload took 22.8s.
+[2020.08.02-04.32.29:340][502]LogTemp: Repeating last play command: Standalone Game
+[2020.08.02-04.32.29:424][502]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.08.02-04.32.30:616][502]LogSlate: Window 'Save Content' being destroyed
+[2020.08.02-04.32.30:653][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter/BP_MyMC_Behaviour" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/MainCharacter/BP_MyMC_Behaviour.uasset" SILENT=true
+[2020.08.02-04.32.30:722][502]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/BP_MyMC_Behaviour7EFCFE234C05A8FAC1A0DE840A5D3BC6.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/MainCharacter/BP_MyMC_Behaviour.uasset'
+[2020.08.02-04.32.30:767][503]AssetCheck: New page: Asset Save: BP_MyMC_Behaviour
+[2020.08.02-04.32.30:767][503]LogContentValidation: Display: Validating Blueprint /Game/MainCharacter/BP_MyMC_Behaviour.BP_MyMC_Behaviour
+[2020.08.02-04.33.09:369][884]LogEditorTransaction: Undo Create Pin Link
+[2020.08.02-04.33.09:471][884]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.33.11:873][ 11]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter/BP_MyMC_Behaviour" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/MainCharacter/BP_MyMC_Behaviour.uasset" SILENT=true
+[2020.08.02-04.33.11:936][ 11]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/BP_MyMC_Behaviour5C13C63C4FC1E878D2261C934B033ECB.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/MainCharacter/BP_MyMC_Behaviour.uasset'
+[2020.08.02-04.33.11:963][ 11]AssetCheck: New page: Asset Save: BP_MyMC_Behaviour
+[2020.08.02-04.33.11:963][ 11]LogContentValidation: Display: Validating Blueprint /Game/MainCharacter/BP_MyMC_Behaviour.BP_MyMC_Behaviour
+[2020.08.02-04.33.30:993][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Demon/ABP_Demon" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/ABP_Demon.uasset" SILENT=true
+[2020.08.02-04.33.31:055][994]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/ABP_DemonD1B3C6CF4CF9E17EB0F5CE8BD8E7BB1A.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/ABP_Demon.uasset'
+[2020.08.02-04.33.31:076][994]AssetCheck: New page: Asset Save: ABP_Demon
+[2020.08.02-04.33.31:076][994]LogContentValidation: Display: Validating AnimBlueprint /Game/Enemies/Demon/ABP_Demon.ABP_Demon
+[2020.08.02-04.33.32:405][ 73]BlueprintLog: New page: Compile ABP_Demon
+[2020.08.02-04.33.32:797][ 73]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.32:797][ 73]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.32:852][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2020.08.02-04.33.32:941][ 75]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.32:958][ 76]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.32:975][ 77]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.32:991][ 78]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.33:011][ 79]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.33:025][ 80]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.33:042][ 81]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.33:058][ 82]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.33:074][ 83]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.33:090][ 84]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.33:107][ 85]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.33:124][ 86]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.33:140][ 87]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.33:157][ 88]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.33:174][ 89]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_2
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.33.34:110][140]LogTemp: Repeating last play command: Standalone Game
+[2020.08.02-04.33.34:174][140]LogUObjectHash: Compacting FUObjectHashTables data took   5.90ms
+[2020.08.02-04.34.01:322][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter/BP_MyMC_Behaviour" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/MainCharacter/BP_MyMC_Behaviour.uasset" SILENT=true
+[2020.08.02-04.34.01:388][648]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/BP_MyMC_BehaviourB662CB954D2429A21EF2E9A8F03BEA61.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/MainCharacter/BP_MyMC_Behaviour.uasset'
+[2020.08.02-04.34.01:409][648]AssetCheck: New page: Asset Save: BP_MyMC_Behaviour
+[2020.08.02-04.34.01:409][648]LogContentValidation: Display: Validating Blueprint /Game/MainCharacter/BP_MyMC_Behaviour.BP_MyMC_Behaviour
+[2020.08.02-04.34.02:993][740]BlueprintLog: New page: Compile BP_MyMC_Behaviour
+[2020.08.02-04.34.03:474][740]LogUObjectHash: Compacting FUObjectHashTables data took   5.17ms
+[2020.08.02-04.34.04:747][803]LogTemp: Repeating last play command: Standalone Game
+[2020.08.02-04.34.04:816][803]LogUObjectHash: Compacting FUObjectHashTables data took   6.00ms
+[2020.08.02-04.34.35:457][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Demon/BP_DemonAI" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset" SILENT=true
+[2020.08.02-04.34.35:519][567]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/BP_DemonAI35FBCCD7457B29AD78AF59912B283EE6.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset'
+[2020.08.02-04.34.35:539][567]AssetCheck: New page: Asset Save: BP_DemonAI
+[2020.08.02-04.34.35:539][567]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Demon/BP_DemonAI.BP_DemonAI
+[2020.08.02-04.34.36:572][624]LogTemp: Repeating last play command: Standalone Game
+[2020.08.02-04.34.36:635][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.08.02-04.34.38:090][624]LogSlate: Window 'Save Content' being destroyed
+[2020.08.02-04.34.38:134][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainCharacter/BP_MyMC_Behaviour" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/MainCharacter/BP_MyMC_Behaviour.uasset" SILENT=true
+[2020.08.02-04.34.38:201][624]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/BP_MyMC_Behaviour1DFA2C8C4E8DF7264A175DA3FD2385D1.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/MainCharacter/BP_MyMC_Behaviour.uasset'
+[2020.08.02-04.34.38:248][625]AssetCheck: New page: Asset Save: BP_MyMC_Behaviour
+[2020.08.02-04.34.38:249][625]LogContentValidation: Display: Validating Blueprint /Game/MainCharacter/BP_MyMC_Behaviour.BP_MyMC_Behaviour
+[2020.08.02-04.35.09:723][832]BlueprintLog: New page: Compile BP_DemonAI
+[2020.08.02-04.35.10:199][832]LogUObjectHash: Compacting FUObjectHashTables data took   5.92ms
+[2020.08.02-04.35.16:268][127]LogRenderer: Reallocating scene render targets to support 828x1144 Format 10 NumSamples 1 (Frame:1).
+[2020.08.02-04.35.19:492][311]Cmd: TRANSACTION UNDO
+[2020.08.02-04.35.19:492][311]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2020.08.02-04.35.19:573][311]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.35.19:720][314]Cmd: TRANSACTION UNDO
+[2020.08.02-04.35.19:720][314]LogEditorTransaction: Undo Reset to Default
+[2020.08.02-04.35.19:729][314]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_11:PersistentLevel.BP_MyMC_Behaviour_C_0.FirstPersonCamera) Component already registered.
+[2020.08.02-04.35.19:799][314]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.35.19:947][315]Cmd: TRANSACTION UNDO
+[2020.08.02-04.35.19:947][315]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2020.08.02-04.35.19:957][315]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_11:PersistentLevel.BP_MyMC_Behaviour_C_0.FirstPersonCamera) Component already registered.
+[2020.08.02-04.35.19:959][315]LogScript: Warning: Accessed None trying to read property CallFunc_GetMovementComponent_ReturnValue
+	AnimBP_Longsword_C /Engine/Transient.World_9:PersistentLevel.BP_MyMC_Behaviour_C_0.Mesh2P.AnimBP_Longsword_C_0
+	Function /Game/MainCharacter/AnimBP_Longsword.AnimBP_Longsword_C:ExecuteUbergraph_AnimBP_Longsword:1017
+[2020.08.02-04.35.20:027][315]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.35.20:176][316]Cmd: TRANSACTION UNDO
+[2020.08.02-04.35.20:176][316]LogEditorTransaction: Undo Move Node
+[2020.08.02-04.35.20:250][316]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.35.20:253][316]Cmd: TRANSACTION UNDO
+[2020.08.02-04.35.20:253][316]LogEditorTransaction: Undo Create Pin Link
+[2020.08.02-04.35.20:326][316]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.35.20:421][320]Cmd: TRANSACTION UNDO
+[2020.08.02-04.35.20:421][320]LogEditorTransaction: Undo Add Node
+[2020.08.02-04.35.20:495][320]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.35.20:603][326]Cmd: TRANSACTION UNDO
+[2020.08.02-04.35.20:603][326]LogEditorTransaction: Undo Reparent Blueprint
+[2020.08.02-04.35.20:698][326]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.35.20:838][330]Cmd: TRANSACTION UNDO
+[2020.08.02-04.35.20:838][330]LogEditorTransaction: Undo Reparent Blueprint
+[2020.08.02-04.35.20:930][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.35.23:305][471]BlueprintLog: New page: Compile BP_DemonAI
+[2020.08.02-04.35.23:329][471]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.08.02-04.35.24:391][471]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.062 s
+[2020.08.02-04.35.24:391][471]LogOutputDevice: Error: === Handled ensure: ===
+[2020.08.02-04.35.24:391][471]LogOutputDevice: Error: 
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Components/SceneComponent.cpp] [Line: 1872]
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: Template Mismatch during attachment. Attaching instanced component to template component. Parent 'CollisionCylinder' (Owner 'BP_DemonAI_C_3') Self 'CharacterMesh0' (Owner 'BP_DemonAI_C_0').
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: Stack: 
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeeb964bc1 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeea592a0c UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeea5b0499 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeea563d7e UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeea61054c UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeea5b07ad UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeea4d17e0 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeea4fedee UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeea11b7a0 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeea12912c UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeea1272c7 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeeaa0106f UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeeaa01547 UE4Editor-Engine.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffee85d9e76 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffee85dbbaa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffee859b3ef UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeda4b5031 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeda460f7a UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeda460d04 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffee85a32f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeda5568fd UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffeda5725c8 UE4Editor-Kismet.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffee9a46c6a UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffee9b22b22 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffee9b02074 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffee9b91498 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffee9ba9281 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffee9a0323f UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffee9a89175 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffee9a7413e UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ffee9a68f67 UE4Editor-Slate.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007fff23554ca1 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007fff2354242f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007fff23557195 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007fff2353ec40 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007fff3fd45c1d USER32.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007fff3fd45612 USER32.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007fff23558699 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ff61c886db0 UE4Editor.exe!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ff61c89c3ec UE4Editor.exe!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ff61c89c4ca UE4Editor.exe!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ff61c8aceae UE4Editor.exe!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007ff61c8afcbe UE4Editor.exe!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007fff3eaf7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: [Callstack] 0x00007fff4040ce51 ntdll.dll!UnknownFunction []
+[2020.08.02-04.35.24:392][471]LogOutputDevice: Error: 
+[2020.08.02-04.35.24:401][471]LogStats:                SubmitErrorReport -  0.000 s
+[2020.08.02-04.35.26:644][471]LogStats:                    SendNewReport -  2.242 s
+[2020.08.02-04.35.26:644][471]LogStats:             FDebug::EnsureFailed -  3.314 s
+[2020.08.02-04.35.27:084][471]LogUObjectHash: Compacting FUObjectHashTables data took   8.12ms
+[2020.08.02-04.35.27:119][471]LogTemp: Resetting audio stream to device id 
+[2020.08.02-04.35.27:144][471]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.08.02-04.35.27:144][471]LogAudioMixer: Display: Name: Speakers (Realtek(R) Audio)
+[2020.08.02-04.35.27:144][471]LogAudioMixer: Display: Is Default: Yes
+[2020.08.02-04.35.27:144][471]LogAudioMixer: Display: Sample Rate: 48000
+[2020.08.02-04.35.27:144][471]LogAudioMixer: Display: Channel Count Used: 8
+[2020.08.02-04.35.27:144][471]LogAudioMixer: Display: Device Channel Count: 8
+[2020.08.02-04.35.27:144][471]LogAudioMixer: Display: Channel Order:
+[2020.08.02-04.35.27:144][471]LogAudioMixer: Display: 0: FrontLeft
+[2020.08.02-04.35.27:144][471]LogAudioMixer: Display: 1: FrontRight
+[2020.08.02-04.35.27:144][471]LogAudioMixer: Display: 2: FrontCenter
+[2020.08.02-04.35.27:144][471]LogAudioMixer: Display: 3: LowFrequency
+[2020.08.02-04.35.27:144][471]LogAudioMixer: Display: 4: BackLeft
+[2020.08.02-04.35.27:144][471]LogAudioMixer: Display: 5: BackRight
+[2020.08.02-04.35.27:144][471]LogAudioMixer: Display: 6: SideLeft
+[2020.08.02-04.35.27:144][471]LogAudioMixer: Display: 7: SideRight
+[2020.08.02-04.35.33:679][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Demon/ABP_Demon" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/ABP_Demon.uasset" SILENT=true
+[2020.08.02-04.35.33:752][795]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/ABP_Demon0DA54EC24F10E15670EA05BA195104ED.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/ABP_Demon.uasset'
+[2020.08.02-04.35.33:770][795]AssetCheck: New page: Asset Save: ABP_Demon
+[2020.08.02-04.35.33:770][795]LogContentValidation: Display: Validating AnimBlueprint /Game/Enemies/Demon/ABP_Demon.ABP_Demon
+[2020.08.02-04.35.35:452][890]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2020.08.02-04.35.35:478][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_Spawner" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/BP_Spawner.uasset" SILENT=true
+[2020.08.02-04.35.35:557][890]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/BP_Spawner07E3C00E4674DC5FE25E58B593312A4E.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/BP_Spawner.uasset'
+[2020.08.02-04.35.35:560][890]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Demon/BP_DemonAI" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset" SILENT=true
+[2020.08.02-04.35.35:614][890]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/BP_DemonAI37C1C3044332D3076766B2A2B8E6F2F1.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset'
+[2020.08.02-04.35.35:643][890]AssetCheck: New page: Asset Save: multiple assets
+[2020.08.02-04.35.35:643][890]LogContentValidation: Display: Validating Blueprint /Game/Enemies/BP_Spawner.BP_Spawner
+[2020.08.02-04.35.35:643][890]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Demon/BP_DemonAI.BP_DemonAI
+[2020.08.02-04.35.37:320][986]BlueprintLog: New page: Compile ABP_Demon
+[2020.08.02-04.35.37:704][986]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.37:704][986]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.37:758][986]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2020.08.02-04.35.37:853][988]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.37:869][989]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.37:886][990]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.37:902][991]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.37:919][992]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.37:936][993]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.37:953][994]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.37:970][995]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.37:986][996]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.38:003][997]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.38:019][998]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.38:035][999]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.38:052][  0]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.38:068][  1]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.38:085][  2]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	ABP_Demon_C /Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.ABP_Demon_C_3
+	Function /Game/Enemies/Demon/ABP_Demon.ABP_Demon_C:Get_Speed:0036
+[2020.08.02-04.35.38:677][ 37]LogTemp: Repeating last play command: Standalone Game
+[2020.08.02-04.35.38:740][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   5.96ms
+[2020.08.02-04.35.58:864][412]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.08.02-04.36.02:085][598]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.08.02-04.36.02:106][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Demon/BP_DemonAI" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset" SILENT=true
+[2020.08.02-04.36.02:164][598]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/BP_DemonAI20A870234F02D017CD1BF085D95C4A36.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset'
+[2020.08.02-04.36.02:183][598]AssetCheck: New page: Asset Save: BP_DemonAI
+[2020.08.02-04.36.02:183][598]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Demon/BP_DemonAI.BP_DemonAI
+[2020.08.02-04.36.05:665][794]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.08.02-04.36.05:696][794]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Demon/BP_DemonAI" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset" SILENT=true
+[2020.08.02-04.36.05:764][794]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/BP_DemonAI1EB6D3944A7E623FAA3649A58D30FB26.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset'
+[2020.08.02-04.36.05:781][794]AssetCheck: New page: Asset Save: BP_DemonAI
+[2020.08.02-04.36.05:781][794]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Demon/BP_DemonAI.BP_DemonAI
+[2020.08.02-04.36.06:940][863]LogTemp: Repeating last play command: Standalone Game
+[2020.08.02-04.36.07:001][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.08.02-04.36.39:708][550]Cmd: TRANSACTION UNDO
+[2020.08.02-04.36.39:708][550]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2020.08.02-04.36.39:792][550]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.36.39:897][551]Cmd: TRANSACTION UNDO
+[2020.08.02-04.36.39:897][551]LogEditorTransaction: Undo Edit Anim Class
+[2020.08.02-04.36.39:993][551]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.36.40:118][552]Cmd: TRANSACTION UNDO
+[2020.08.02-04.36.40:118][552]LogEditorTransaction: Undo Create Pin Link
+[2020.08.02-04.36.40:196][552]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.36.40:262][553]Cmd: TRANSACTION UNDO
+[2020.08.02-04.36.40:262][553]LogEditorTransaction: Undo Move Node
+[2020.08.02-04.36.40:336][553]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.36.40:430][558]Cmd: TRANSACTION UNDO
+[2020.08.02-04.36.40:430][558]LogEditorTransaction: Undo Add Node
+[2020.08.02-04.36.40:504][558]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.08.02-04.37.00:872][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Demon/ABP_Demon" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/ABP_Demon.uasset" SILENT=true
+[2020.08.02-04.37.00:935][699]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/ABP_DemonB470ABF04C6AEEF8E534AFA372EE6372.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/ABP_Demon.uasset'
+[2020.08.02-04.37.00:963][699]AssetCheck: New page: Asset Save: ABP_Demon
+[2020.08.02-04.37.00:963][699]LogContentValidation: Display: Validating AnimBlueprint /Game/Enemies/Demon/ABP_Demon.ABP_Demon
+[2020.08.02-04.37.01:893][751]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-04.37.01:893][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-04.37.01:902][751]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-04.37.01:902][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-04.37.02:652][751]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-04.37.02:652][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-04.37.08:169][ 70]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Demon/BP_DemonAI" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset" SILENT=true
+[2020.08.02-04.37.08:232][ 70]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/BP_DemonAI0373ECEA4CC01E2DAB0CBDB2086A8289.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset'
+[2020.08.02-04.37.08:251][ 70]AssetCheck: New page: Asset Save: BP_DemonAI
+[2020.08.02-04.37.08:251][ 70]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Demon/BP_DemonAI.BP_DemonAI
+[2020.08.02-04.37.11:429][257]LogSlate: Window 'BP_DemonAI' being destroyed
+[2020.08.02-04.37.11:483][257]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-04.37.11:484][257]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-04.37.18:403][661]BlueprintLog: New page: Compile BP_MyMC_Behaviour
+[2020.08.02-04.37.18:939][661]LogUObjectHash: Compacting FUObjectHashTables data took   6.35ms
+[2020.08.02-04.37.25:064][  5]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.08.02-04.37.25:064][  5]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.08.02-04.37.25:064][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.08.02-04.37.31:986][408]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Enemies/Demon/BP_DemonAI.BP_DemonAI
+[2020.08.02-04.37.52:993][608]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Demon/BP_DemonAI" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset" SILENT=true
+[2020.08.02-04.37.53:056][608]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/BP_DemonAIC63FF100498DF86D2491B9A95E986AF2.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset'
+[2020.08.02-04.37.53:076][608]AssetCheck: New page: Asset Save: BP_DemonAI
+[2020.08.02-04.37.53:076][608]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Demon/BP_DemonAI.BP_DemonAI
+[2020.08.02-04.37.57:683][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Demon/BP_DemonAI" FILE="../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset" SILENT=true
+[2020.08.02-04.37.57:748][878]LogSavePackage: Moving '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Saved/BP_DemonAI7BA7FB9541745159E73FF69F1C3D45F8.tmp' to '../../../../../../Users/SourApple/Documents/GitHub/AtHome_Internship/Content/Enemies/Demon/BP_DemonAI.uasset'
+[2020.08.02-04.37.57:766][878]AssetCheck: New page: Asset Save: BP_DemonAI
+[2020.08.02-04.37.57:766][878]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Demon/BP_DemonAI.BP_DemonAI
+[2020.08.02-04.38.00:932][ 66]LogTemp: Repeating last play command: Standalone Game
+[2020.08.02-04.38.01:069][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   7.71ms
